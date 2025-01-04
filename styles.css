@@ -333,7 +333,9 @@ nav i:hover {
 .contact-container img {
     width: 50%;
     height: 590px;
-    border-radius: .8rem;
+    border-top-left-radius: .8rem;
+    border-bottom-left-radius: .8rem;
+    box-shadow: inset  10000px  0 0  rgba(0, 0, 0, 0.884);
 }
 
 
