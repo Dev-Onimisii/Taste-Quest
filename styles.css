@@ -372,14 +372,18 @@ nav i:hover {
     box-shadow: inset  10000px  0 0  rgba(0, 0, 0, 0.884);
     object-fit: cover;
 }
-.contact-writeUp{
+.contact-writeUp {
     display: flex;
     flex-direction: column;
     gap: 1rem;
 }
 .contact-writeUp i {
+    margin-right: 2rem;
     color: #28e26d;
     font-size: 1.5rem;
+}
+.contact-writeUp p {
+    margin-left: 3 rem;
 }
 .form {
     display: flex;
@@ -456,8 +460,7 @@ nav i:hover {
      margin-top: 1rem;
    }
  .box{
-     width: 100%;
+     width: 100%; 
    }
-
 }
   
